@@ -13,6 +13,7 @@ This is a 5-minute project quickly created to boost some twitch emotes numbers
 4. Head over to [twitchapps.com](https://twitchapps.com/tmi/) and generate an oauth token for the account you want to use (you will use this instead of a passowrd).
 5. Change username and password in `settings.json`.
 6. Simply run the bot with `node xd.js`.
+7. Exit with Ctrl + C in terminal.
 
 ### disclaimer
 This thing is very lidl, because I spent more time on creating this readme than I spent on writing the source code pajaScoots
