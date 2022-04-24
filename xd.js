@@ -13,7 +13,7 @@ const client = new tmi.Client({
     },
     identity: {
         username: username,
-        password: password
+        password: password   // edit in settings.json file
     },
     channels: ["YOUR_CHANNELS"]
 });
