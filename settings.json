@@ -1,5 +1,5 @@
 {
     "username" : "YOUR_USERNAME",
-    "password" : "YOUR_OAUTH" // https://twitchapps.com/tmi/
+    "password" : "YOUR_OAUTH" 
    
 }
